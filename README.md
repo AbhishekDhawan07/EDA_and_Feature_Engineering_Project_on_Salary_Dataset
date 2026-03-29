@@ -31,8 +31,8 @@ Whether you're a data science enthusiast or a professional, this project offers 
 ```
 EDA_and_Feature_Engineering_Project_on_Salary_Dataset/
 │
-├── 📄 README.md                                     ← You are here!
-├── 📄 Salary and Salaries Reported Scatterplot.png  ← Visual output
+├── 📄 README.md                                     # You are here!
+├── 📄 Salary and Salaries Reported Scatterplot.png  # Visual output
 │
 └── 📂 EDA and Feature Engineering Project on Salary Dataset/
     ├── 📓 EDA and Feature Engineering on Salary Dataset.ipynb
